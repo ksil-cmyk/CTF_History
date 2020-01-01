@@ -4,3 +4,4 @@
 * 2019 SHADOW CTF 1위 (2019.10.30) (team : TeamMODU)
 * 2019 RITSEC CTF 51위 (2019.11.19) (team : TeamMODU)
 * 2019 X-MAS CTF 192위 (192/2458) (2019.12.21) (team : TeamMODU)
+* 2019 Christmas CTF 35위 (35/231) (2019.12.25) (team : TeamMODU)
